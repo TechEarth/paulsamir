@@ -45,7 +45,7 @@ Menus:
     #   weight: 2
 
 params:
-  title: "SAMIR PAUL"
+  title: "𝓢𝓪𝓶𝓲𝓻 𝓟𝓪𝓾𝓵"
   description: Software Developer
   # staticPath: ""  # The path to serve the static files from
   favicon: "https://raw.githubusercontent.com/SamirPaulb/assets/main/samirpaul-link-github-app_favicon.ico"
@@ -60,7 +60,7 @@ params:
 
   theme:
     disableThemeToggle: false
-    defaultTheme: "light" # dark
+    # defaultTheme: "light" # dark
 
   # font:
   #   fontSize: 1.5rem # default: 1rem
@@ -103,14 +103,14 @@ params:
   hero:
     enable: true
     intro: "Hi, my name is"
-    title: "Samir."
+    title: "Samir Paul."
     subtitle: "I build things for the web"
     content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
     image: https://raw.githubusercontent.com/SamirPaulb/assets/main/SamirPaul-image-for-link-webapp-github-samirpaul1.jpg
     button:
       enable: true
       name: "Resume"
-      url: "#"
+      url: "samirpaul.in"
       download: true
     socialLinks:
       fontAwesomeIcons:
@@ -122,9 +122,6 @@ params:
           url: https://twitter.com/SamirPaulb
         - icon: fab fa-instagram
           url: https://www.instagram.com/SamirPaulb
-      customIcons:
-        - icon: /fav.png
-          url: "https://example.com"
 
   # About
   about:
